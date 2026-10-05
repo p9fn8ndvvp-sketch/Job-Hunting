@@ -7,8 +7,9 @@
 
 1. **所有岗位都没有打开页面核实过。** 搜索环境无法访问招聘网站（Workday、Greenhouse、LinkedIn 等都被拦截），清单全部来自搜索结果摘要。其中明确写了 2027 届或截止日期的岗位比较可信，但**投递前一定要逐个点开，确认还在开放**。
 2. **STEM OPT 的前提条件：** 雇主必须加入 E-Verify，并且愿意签 I-983 培训计划。大银行、大基金、大开发商基本都没问题；小公司需要在面试后期确认。同时请确认你的 EEP 学位是 STEM CIP code。
-3. **"是否需要签证担保"这道题：** 有些公司（例如 Wells Fargo）写明只招"现在和将来都不需要签证担保"的人。你按 OPT 的实际情况如实回答就好，但要知道部分 HR 会因此把 OPT 候选人筛掉。
-4. 链接后面标注"镜像"的，是第三方网站转载，请到公司官网搜同名岗位投递。
+3. **⚠️ 不能只看"是否提供 H-1B 担保"。** 有些雇主连 OPT／CPT 都写明不支持，OPT 身份等于被直接排除。例如 Clearway 的岗位写明："will not ... provide any assistance in support of any other form of immigration sponsorship or benefit including OPT or CPT"。投之前请在岗位描述里搜 "OPT"、"sponsorship"、"now or in the future" 这几个词。
+4. **"是否需要签证担保"这道题：** 有些公司（例如 Wells Fargo）写明只招"现在和将来都不需要签证担保"的人。你按 OPT 的实际情况如实回答就好，但要知道部分 HR 会因此把 OPT 候选人筛掉。
+5. 链接后面标注"镜像"的，是第三方网站转载，请到公司官网搜同名岗位投递。
 
 ---
 
@@ -86,7 +87,6 @@
 | 36 | **ENGIE NA**：Graduate Rotation – Hedging & Risk | Houston | — | [链接](https://jobs.engie.com/job/Renewables-&-Flexible-Power-Graduate-Rotation-Program-Hedging-&-Risk/69857-en_US/) | ERCOT 和储能收益风险分析 |
 | 37 | **ENGIE NA**：Graduate Rotation – Partnership Management | Houston | — | [链接](https://jobs.engie.com/job/Renewables-&-Flexible-Power-Graduate-Rotation-Program-Partnership-Management/69858-en_US/) | 税收股权合作方管理 |
 | 38 | ⭐ **Soluna**：Financial Analyst | Remote | — | [链接](https://ats.rippling.com/soluna-us-services-llc/jobs/5de70054-9027-4b46-b763-67e3122c8537) | **你的前实习雇主，可以直接找前老板内推** |
-| 39 | **Clearway**：Analyst, Portfolio Finance | San Diego | — | [链接](https://job-boards.greenhouse.io/clearwayjobs/jobs/5166412007) | 税收股权和再融资，要求 0-4 年经验 |
 | 40 | **Arevon**：Analyst, Finance & Investing | Scottsdale／NYC | — | [链接](https://arevonenergy.com/careers/analyst-finance-investing/) | 收购和项目融资建模 |
 | 41 | **Fervo Energy**：Development Analyst | Houston | — | [链接](https://fervoenergy.com/career/development-analyst/) | 地热发电，和"为 AI 供电"方向契合 |
 | 42 | **Invenergy**：Analyst, Finance & Capital Markets | Chicago／NYC | — | [链接](https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergyllc/job/Chicago-IL/Analyst--Finance-and-Capital-Markets_R08985-2) | 税收股权、债务和项目融资，岗位可能是旧的 |
@@ -126,7 +126,7 @@
 - **Evercore、Moelis、Lazard、Houlihan Lokey** 的能源组：目前只找到招有经验者的岗位
 - **没有找到公开岗位（靠人脉和 off-cycle 招人）**：Stonepeak、CIP、ECP、ArcLight、Quinbrook、Apollo、TPG Rise、Intersect、Pattern、Recurrent、Primergy、Marathon Capital（只有暑期实习）、CRC-IB
 
-**已剔除：** Guidehouse（要求公民或绿卡）、S&P Global（要求公民或绿卡）；MBB、FTI、Rhodium 已截止；PG&E 轮岗项目届别不符。
+**已剔除：** Clearway（岗位写明不支持 OPT／CPT）、Guidehouse（要求公民或绿卡）、S&P Global（要求公民或绿卡）；MBB、FTI、Rhodium 已截止；PG&E 轮岗项目届别不符。
 
 ---
 
